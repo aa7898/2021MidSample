@@ -22,7 +22,6 @@
                         <asp:CheckBox ID="cb1" runat="server" Font-Size="X-Large" Text="看書" />
                         <asp:CheckBox ID="cb2" runat="server" Font-Size="X-Large" Text="打電動" />
                         <asp:CheckBox ID="cb3" runat="server" Font-Size="X-Large" Text="其他" />
-                    </div>
                     </br>
                     <asp:Label ID="Label4" runat="server" Text="其他連結" Font-Size="X-Large"></asp:Label>
                     <asp:HyperLink ID="HyperLink1" runat="server" ImageHeight="30px" ImageUrl="1.png" ImageWidth="80px" NavigateUrl=" https://aws.amazon.com/tw/">HyperLink</asp:HyperLink>
